@@ -1,9 +1,6 @@
 import math
 import random
 
-import math
-import random
-
 
 
 def test_greeting():
